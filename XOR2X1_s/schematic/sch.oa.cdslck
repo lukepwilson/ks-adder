@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ee165sp25bb
+HostName                       ieng6-ece-14.ucsd.edu
+ProcessIdentifier              22841
+ProcessCreationTime_UTC        1749080454
+ProcessCreationTime_Readable   Wed Jun  4 16:40:54 2025 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/linux/ieng6/ee165sp25/ee165sp25bb/Lab4_adder_tb/XOR2X1_s/schematic/sch.oa.cdslck
+TimeEditLocked                 Wed Jun  4 16:47:46 2025 PDT
